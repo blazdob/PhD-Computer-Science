@@ -7,12 +7,14 @@ My main work is focuesd on machine learning and data science. I am currently wor
 * Argumentation in Machine Learning
 * Implicit Concept Detection
 * Explainable AI
-* Abstract Reasoning 
-* Deep Reinformcent Learning
+* Explainable Reinforcement Learning
+* Deep Reinforcement Learning
 
 ## Working repositories
 
 * [XRL self driving car environment](
     https://github.com/blazdob/XRL-self-driving-car-LRP-and-prototypes
 ) - This work contains explanations using two techniques: **LRP** and Human-defined **Prototypes**
-
+* [Persistance Guided Neural networks](
+    https://github.com/blazdob/Persistence-diagram-guided-neural-network
+) - This work contains the work on persistence diagram detection and how they can guide the Deep Learning process.
